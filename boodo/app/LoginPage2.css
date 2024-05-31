@@ -1,0 +1,101 @@
+.login-page .or-register-here {
+    margin: 47px 22px 4px 0;
+    display: inline-block;
+    width: 778px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 36px;
+    text-decoration-line: underline;
+    color: #000000;
+  }
+  .login-page .rectangle-9 {
+    border-radius: 25px;
+    background: #D9D9D9;
+    margin-top: 3px;
+    width: 834px;
+    height: 65px;
+  }
+  .login-page .rectangle-10 {
+    border-radius: 25px;
+    background: #D9D9D9;
+    width: 834px;
+    height: 65px;
+  }
+  .login-page .login {
+    margin: 0 0 81px 27.3px;
+    display: inline-block;
+    align-self: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 96px;
+    color: #000000;
+  }
+  .login-page .password {
+    margin: 0 44.8px 5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 48px;
+    color: #000000;
+  }
+  .login-page .username {
+    margin: 0 29.8px 8px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 48px;
+    color: #000000;
+  }
+  .login-page {
+    background: #FCF5C7;
+    display: flex;
+    flex-direction: column;
+    padding: 81px 0 412px 113px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .login-page .container {
+    margin: 0 10px 48px 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .login-page .register-button {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #253031;
+    position: relative;
+    display: flex;
+    padding: 32px 1px 35px 0;
+    width: 322px;
+    box-sizing: border-box;
+  }
+  .login-page .enter {
+    overflow-wrap: break-word;
+    font-family: 'Lexend Mega';
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .login-page .container-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 1122px;
+    box-sizing: border-box;
+  }
+  .login-page .container-2 {
+    margin: 0 10px 58px 10px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
